@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "Whats Trending On Social Media": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "--with",
+        "fastmcp",
+        "--with",
+        "youtube-comment-downloader",
+        "--with",
+        "yt_dlp",
+        "--with",
+        "beautifulsoup4",
+        "--with",
+        "requests",
+        "mcp",
+        "run",
+        "server.py"
+      ],
+      "env":{
+        "tiktok": "<tiktok token goes here>"
+    }
+    }
+  }
+}
