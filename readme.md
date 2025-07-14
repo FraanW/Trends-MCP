@@ -1,6 +1,6 @@
 # 🚀 Whats Trending On Social Media
 
-This Python module fetches trending data from platforms like **YouTube**, **TikTok**, and **Instagram Reels** using various scraping and API techniques. It's designed to run under FastMCP and exposes tools that can be consumed via a local CLI or server.
+This MCP fetches trending data from platforms like **YouTube**, **TikTok**, and **Instagram Reels** using various scraping and API techniques. It's designed to run under FastMCP and exposes tools that can be consumed via a local CLI or server.
 
 ---
 
