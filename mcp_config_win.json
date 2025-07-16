@@ -18,7 +18,7 @@
         "requests",
         "mcp",
         "run",
-        "server.py"
+        "path/to/server.py"
       ],
       "env":{
         "tiktok": "<tiktok token goes here>"
