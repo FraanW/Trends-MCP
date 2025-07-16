@@ -18,37 +18,37 @@ Make sure the following Python packages are installed:
 
 ## 🚀 Available Tools
 
-### 🔹 `get_comments_yt(video_id: str, max_comments: int = 100) -> List[str]`
+### 🔹 `get_comments_yt()`
 
 Fetches YouTube comments for a given video ID.
 
 ---
 
-### 🔹 `get_yt_trending_global(limit: int = 10) -> List[Dict[str, str]]`
+### 🔹 `get_yt_trending_global()`
 
 Fetches globally trending YouTube videos (default region: US).
 
 ---
 
-### 🔹 `get_yt_trending_by_region(region_code: str = "IN", limit: int = 10) -> List[Dict[str, str]]`
+### 🔹 `get_yt_trending_by_region()`
 
 Fetches region-specific YouTube trending videos.
 
 ---
 
-### 🔹 `get_yt_video_info(url: str) -> Optional[Dict[str, str]]`
+### 🔹 `get_yt_video_info()`
 
 Returns detailed metadata about a YouTube video.
 
 ---
 
-### 🔹 `tiktok_trending_global() -> str`
+### 🔹 `tiktok_trending_global()`
 
 Fetches trending TikTok videos via the RapidAPI and summarizes them.
 
 ---
 
-### 🔹 `get_this_weeks_reels_trends() -> List[Dict[str, str]]`
+### 🔹 `get_this_weeks_reels_trends()`
 
 Scrapes weekly Instagram Reels trends from Later.com.
 
