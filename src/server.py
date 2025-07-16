@@ -151,5 +151,5 @@ def get_this_weeks_reels_trends() -> List[Dict[str, str]]:
             except: continue
     return trends
 
-if __name__ == "__main__":
-    mcp.run()
+# if __name__ == "__main__":
+#     mcp.run()
