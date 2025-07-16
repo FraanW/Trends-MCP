@@ -2,6 +2,9 @@
 
 This MCP fetches trending data from platforms like **YouTube**, **TikTok**, and **Instagram Reels** using various scraping and API techniques. It's designed to run under FastMCP and exposes tools that can be consumed via a local CLI or server.
 
+![Animation](ezgif-19a49fe4da0940.gif)
+
+
 ---
 
 ## 🛠️ Dependencies
