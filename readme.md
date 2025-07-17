@@ -71,7 +71,7 @@ YouTube Trending Feed: https://www.youtube.com/feed/trending
 
 Instagram Reels Trends Source: https://later.com/blog/instagram-reels-trends/
 
-TikTok RapidAPI: https://rapidapi.com/Glavier/api/tiktok-best-experience
+TikTok RapidAPI: https://rapidapi.com/ponds4552/api/tiktok-best-experience
 
 ## 📌 MCP Config File
 
