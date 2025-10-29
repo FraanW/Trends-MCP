@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+youtube-comment-downloader
+beautifulsoup4
+yt_dlp
+requests
+python-multipart
